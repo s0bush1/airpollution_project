@@ -1,0 +1,147 @@
+.search{
+	float: center;
+}
+.login-faqs{
+	float: right;
+}
+
+.search{
+	border-radius: 10px;
+	padding: auto;
+	border: solid black 5px;
+	background-color: lightgrey;
+	 ;
+}
+.sub-heading2{
+	border-style: dotted;
+	padding-left: 10px;
+}
+
+
+}
+.componenets-names{
+	
+	padding-left: 40px;
+}
+
+#myvideo{
+	width: 100vw;
+	height: 100wh;
+	object-fit: cover;
+	left: 0;
+	top: 0;
+	position: fixed;
+	z-index: -10;
+}
+
+.frame2{
+	float:right;
+
+}
+h4{
+	font-size: 1.4rem;
+}
+
+
+h1{
+	text-align: center;
+	font-family: open sans-serif;
+}
+
+.field1{
+	background-color: skyblue;
+}
+.sub-heading1{
+	text-align: center;
+}
+.location-container{
+	justify-content: center;
+	text-align: center;
+	background-image: url("images/unsllash.jpg");
+	color: white;
+	
+	
+}
+
+
+
+}
+.search-btn {
+  background-color: #4CAF50; /* Green */
+  border: solid;
+  border-radius: 18px;
+  color: white;
+  padding:0.8rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.loc-input{
+	border-radius: 18px;
+	padding: 0.8rem;
+	border: solid;
+
+}
+.enter{
+	font-size: 30px;
+	color:beige;
+}
+.componenets-names{
+	display: inline-block;
+}
+
+
+
+
+.details{
+	text-align: center;
+}
+
+.patners{
+	border: solid black 2px;
+}
+
+
+.contacts{
+	text-align: center;
+
+}
+.userinfo{
+	border: solid 3px;
+	border-radius: 18px;
+	border: hidden;
+
+
+}
+
+.fr,.ph,.em{
+	border-radius: 18px;
+	padding: 0.8rem;
+	border-style: dotted;
+	line-height: 0.8;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+.btn{
+	 background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+s
+
+
